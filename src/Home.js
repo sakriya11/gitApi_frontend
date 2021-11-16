@@ -33,7 +33,7 @@ const Home = () => {
           type="text"
           className="form-control"
           name="search"
-          placeholder="Search your repo"
+          placeholder="Search your repooo"
           onChange={(e) => {
             setSearch(e.target.value);
           }}
